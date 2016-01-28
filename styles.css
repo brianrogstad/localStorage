@@ -1,0 +1,26 @@
+body {
+    font-size: 14px;
+    background-color: #ECECEC;
+    color: #505050;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.page{
+    padding: 20px 5%;
+}
+
+input,
+.table{
+    margin: 0 0 25px;
+}
+
+form{
+    width: 40%;
+    float: right;
+}
+
+.form-btn{
+    float: right;
+}
+ 
